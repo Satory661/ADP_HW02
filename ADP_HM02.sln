@@ -1,10 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADP_HM02", "ADP_HM02\ADP_HM02\ADP_HM02.csproj", "{1C911B2E-0949-427F-A374-EDC81281FB06}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADP_HM02.Sample", "ADP_HM02\ADP_HM02.Sample\ADP_HM02.Sample.csproj", "{EFEF76CF-566A-4F63-8AE5-59FC447AC6FD}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADP_HM02.Tests", "ADP_HM02\ADP_HM02.Tests\ADP_HM02.Tests.csproj", "{5C2F6583-5854-4A5C-9D9F-C6C876D61764}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ADP_HM02", "ADP_HM02", "{95066CD8-1412-4DE2-9DD4-1741D15CE368}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,17 +8,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1C911B2E-0949-427F-A374-EDC81281FB06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1C911B2E-0949-427F-A374-EDC81281FB06}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1C911B2E-0949-427F-A374-EDC81281FB06}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1C911B2E-0949-427F-A374-EDC81281FB06}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EFEF76CF-566A-4F63-8AE5-59FC447AC6FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EFEF76CF-566A-4F63-8AE5-59FC447AC6FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EFEF76CF-566A-4F63-8AE5-59FC447AC6FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EFEF76CF-566A-4F63-8AE5-59FC447AC6FD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5C2F6583-5854-4A5C-9D9F-C6C876D61764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5C2F6583-5854-4A5C-9D9F-C6C876D61764}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5C2F6583-5854-4A5C-9D9F-C6C876D61764}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5C2F6583-5854-4A5C-9D9F-C6C876D61764}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
+# END update
